@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Phil, I am currently completing full-stack web development training through [LaunchCode](https://www.launchcode.org/)
+My name is Phil, I am completing full-stack web development training through [LaunchCode](https://www.launchcode.org/)
 
 
 
