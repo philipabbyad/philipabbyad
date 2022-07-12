@@ -4,7 +4,7 @@ My name is Phil, I recently completed [full-stack web development training](http
 
 
 
-- 🌱 I’m currently learning Java, Spring Boot, Thymeleaf, and MySql
+- 🌱 I’m currently practicing Java and JavaScript more in depth, and learning Linux and the Bash terminal
 - 🔭 I’m currently working on [this Java project](https://github.com/philipabbyad/coding-events) in Spring Boot using a Gradle build with Thymeleaf templates
 - 👯 I’m looking to collaborate on open source projects such as the [Fedora Project](https://start.fedoraproject.org/)
 <br></br>
