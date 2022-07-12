@@ -18,7 +18,7 @@ My name is Phil, I am completing full-stack web development training through [La
   <a title="CSS" href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="36" height="36" alt="CSS" /></a>
   <a title="Java" href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="36" height="36" alt="CSS" /></a>
   <a title="Spring" href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="36" height="36" alt="CSS" /></a>
-  <a title="Thymeleaf" href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Thymeleaf_Logo_with_name_small.png" width="36" height="36" alt="CSS" /></a>
+  <a title="Thymeleaf" href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"><img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" width="36" height="36" alt="CSS" /></a>
     <a title="Bootstrap" href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="36" height="36" alt="CSS" /></a>
   <a title="MySQL" href="https://en.wikipedia.org/wiki/MySQL" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="CSS" /></a>
 </div>
