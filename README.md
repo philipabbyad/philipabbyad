@@ -4,8 +4,8 @@ My name is Phil, I recently completed [full-stack web development training](http
 
 
 
-- 🌱 I’m continually practicing Java and JavaScript, and diving deeper with Linux and the Bash terminal
 - 🔭 I’m currently working on [this Java project](https://github.com/Jul-2022-LC-LiftOff/VolunteerOrganizer) with a team using Spring Boot, Gradle, Hibernate and Thymeleaf templates. This web application will allow prospective volunteers to search for and match to volunteer events created by organizations.
+- 🌱 I’m continually practicing Java and JavaScript, and diving deeper with Linux and the Bash terminal
 - 👯 I’m looking to collaborate on open source projects such as the [Fedora Project](https://start.fedoraproject.org/)
 <br></br>
 ## Skills
