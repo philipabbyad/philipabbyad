@@ -23,6 +23,8 @@ My name is Phil, I recently completed [full-stack web development training](http
    <a title="MySQL" href="https://en.wikipedia.org/wiki/MySQL" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
 </div>
 
+<a rel="me" href="https://fosstodon.org/@philipabbyad"></a>
+
 <!--
 Here are some ideas to get you started:
 
