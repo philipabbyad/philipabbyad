@@ -5,7 +5,7 @@ My name is Phil (*he/him*), I recently completed [full-stack web development tra
 
 
 
-- I'm currently doing the [Exercism #12in23 challenge](https://exercism.org/challenges/12in23) and learning Elixir for this month - See my completed exercises [here](https://github.com/philipabbyad/exercism-elixir)
+- 🎓 I'm currently doing the [Exercism #12in23 challenge](https://exercism.org/challenges/12in23) and learning Elixir for this month - See my completed exercises [here](https://github.com/philipabbyad/exercism-elixir)
 - 🌱 I’m continually practicing Java and JavaScript, and diving deeper with Linux and the Bash Scripting
 - 👯 I’m looking to collaborate on open source projects such as the [Fedora Project](https://start.fedoraproject.org/)
 - 🔭 My largest personal project so far is [this Java project](https://github.com/Jul-2022-LC-LiftOff/VolunteerOrganizer) built with a team using Spring Boot, Gradle, Hibernate and Thymeleaf templates. This web application will allow prospective volunteers to search for and match to volunteer events created by organizations.
