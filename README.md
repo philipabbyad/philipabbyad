@@ -1,5 +1,5 @@
 <p align="right">
-    <a href="https://philipabbyad.com/">philipabbyad.com 🌐</a>
+    <a href="https://philipabbyad.com/">philipabbyad.com</a> 🌐
 </p>
 # Hi there 👋
 
