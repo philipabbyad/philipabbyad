@@ -1,5 +1,5 @@
 <!-- ## Hi there 👋 -->
-<h2>Hi there 👋</h2> <a href="(https://philipabbyad.com/)">philipabbyad.com</a>
+<h2>Hi there 👋</h2> <a href="https://philipabbyad.com/">philipabbyad.com</a>
 
 
 My name is Phil (*he/him*), I recently completed [full-stack web development training](https://www.launchcode.org/assets/LC101_Syllabus-93bea34c8b5ae811b9b4c3f3d7f59d47c51e8bb5640d6f7b8c7a7f5b2b23514e.pdf) through [LaunchCode](https://www.launchcode.org/)
@@ -15,7 +15,7 @@ My name is Phil (*he/him*), I recently completed [full-stack web development tra
 
 <div>
 
-<a title="Java" href="https://en.wikipedia.org/wiki/Java_(programming_language))" target="_blank" rel="noreferrer"><img src="/images/icons/java_original.svg" width="36" height="36" alt="Java" /></a>
+<a title="Java" href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"><img src="/images/icons/java_original.svg" width="36" height="36" alt="Java" /></a>
 <a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="/images/icons/javascript_original.svg" width="36" height="36" alt="JavaScript" /></a>
 <a title="TypeScript" href="https://en.wikipedia.org/wiki/TypeScript" target="_blank" rel="noreferrer"><img src="/images/icons/typescript_original.svg" width="36" height="36" alt="TypeScript" /></a>
 <a title="HTML" href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"><img src="/images/icons/html5_original.svg" width="36" height="36" alt="HTML" /></a>
